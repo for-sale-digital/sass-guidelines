@@ -1,6 +1,6 @@
 # Sass Guidelines @ FSD
 
-Basically we are creating CSS by using Sass - standardized by the **[Sass Guidlines](https://sass-guidelin.es/) from Hugo Giraudel**.
+Basically we are creating CSS by using Sass - standardized by the **[Sass Guidlines](https://sass-guidelin.es/) by Hugo Giraudel**.
 
 ## Only Deviants
 
